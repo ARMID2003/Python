@@ -81,3 +81,44 @@
 #         print("I don't undrestand , what you mean !" )
 
   
+# prices = [10 , 20 , 30]
+# total_price = 0
+# for price in prices:
+#     total_price += price
+
+# print(f"Total : {total_price}")
+# total = 0
+# for i in range (11):
+#     total += i
+   
+
+#     # print( i  )
+
+# print (total)
+
+
+# num = [5,2,5,2,2]
+
+# for i in num:
+#     i *= "X"
+#     print(i)
+
+# num = [2,2,2,2,5]
+
+# for i in num:
+   
+#     print( i * "X")
+
+
+num = [5 , 10 , 15, 55, 95]
+max_num = num[0]
+
+for i in num:
+    print(i)
+    if i > max_num:
+        max_num = i
+  
+
+
+# print(max_num)
+ 
