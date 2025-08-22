@@ -110,15 +110,48 @@
 #     print( i * "X")
 
 
-num = [5 , 10 , 15, 55, 95]
-max_num = num[0]
+# num = [5 , 10 , 15, 55, 95]
+# max_num = num[0]
 
-for i in num:
-    print(i)
-    if i > max_num:
-        max_num = i
+# for i in num:
+#     print(i)
+#     if i > max_num:
+#         max_num = i
   
 
 
 # print(max_num)
  
+
+
+# age = [ 17 , 18 , 19 , 22 , 20, 36, 25, 23, 16, 21 , 19 , 17,26 ]
+# age.sort(reverse=False)
+
+
+
+# Matrix = [
+#     [1,2,3],
+#     [4,5,6],
+#     [7,8,9]
+# ]
+# for row in Matrix:
+#     for item in row:
+#         print(item  ,  row)
+
+    
+# age = [ 17 , 18 , 19 , 22 , 20, 36, 25, 23, 16, 21 , 19 , 17,26 ]
+# age2 = sorted(set(age))
+
+# # age2.sort()
+# # for i in age:   
+# #       if i not in age2 :
+# #             age2.append(i)
+# print(age2)
+
+
+
+# set  & sorte
+
+
+    
+
